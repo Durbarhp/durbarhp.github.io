@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mobile: +358 0465411372</p>
-    <p>Address: Lappeenranta, Finland</p>
-    <p>Your City, State 12345</p>
+    <p>Address: Lappeenranta, Finland -53850</p>
+    <p>Email: durbarofficial@gmail.com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
