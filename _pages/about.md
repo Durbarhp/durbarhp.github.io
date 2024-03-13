@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 My name is Durbar. I am a self-motivated and result oriented IT graduate. Currently I am studying Masters in Data Centric Engineering in LUT University. My major is "Computer Vision and Pattern Recognition". I am doing Minor in Business Analytics. Apart from studies I have worked for around five years as IT executive, Business analyst, IT support etc.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I can be your IT guy who takes after all the IT systems, Business Analyst who is good with python, matlab, R and excel or Data Analyst.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
